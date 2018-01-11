@@ -1,11 +1,11 @@
 # CSE6010 Final Project, Fall 2017
 ## A Discrete Event Simulation for Waiting Time Estimation 
 
-##Compilation
+## Compilation
 Navigate into the root. Compile the simulation using:
 `gcc application.c engine.c -o build`
 
-##Execution
+## Execution
 Run the simulation using:
 `./build`
 
